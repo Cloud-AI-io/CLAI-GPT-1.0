@@ -13,12 +13,6 @@ CloudAI is an AI-powered system that generates, validates, and optimizes Solidit
 2️⃣ The contract is generated based on user input.  
 3️⃣ Security checks and optimizations are applied.  
 
-## 📂 Project Structure  
-📁 CloudAI/ ├── 📁 ai_model/
-│ ├── model.py (AI model) │ ├── generator.py (Smart contract generator) │ ├── validator.py (Security validation) │ ├── utils.py (Helper functions) ├── 📁 contracts/
-│ ├── sample_contract.sol (Example smart contract) ├── 📄 README.md (Project description) ├── 📄 requirements.txt (Dependencies)
-
-
 ## 🔗 Quick Links  
 - 🌐 **Website:** [cloudai.com](http://cloudai.com)  
 - 📢 **Telegram:** [Join Us](http://t.me/cloudai)  
